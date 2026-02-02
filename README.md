@@ -120,8 +120,14 @@ This project successfully demonstrates how machine learning can be applied to pr
 
 Implement Random Forest or Gradient Boosting
 
+👩‍💻 Author
+
+Vishnu Dharshini A
+Car price prediction using Machine Learning 
+
 Hyperparameter tuning
 
 Feature importance analysis
+
 
 Deploy model as a web application
